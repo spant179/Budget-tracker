@@ -6,10 +6,7 @@ Budget Tracker is an online application that gives a user access to tracking dai
 * [Dependencies](#dependencies)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Tests](#tests)
 * [License](#license)
-* [Badges](#badges)
-* [GIF](#gif)
 
 
 ![screencapture-sandy-budget-herokuapp-2021-07-22-20_31_06](https://user-images.githubusercontent.com/79482141/126725054-19487ede-0e1d-4645-9541-9b65f45e3035.png)
